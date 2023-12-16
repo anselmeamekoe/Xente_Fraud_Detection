@@ -1,0 +1,40 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2023-12-05T12:22:31+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "sample_submission.csv",
+      "filesize": 1045033,
+      "description": "Ceci montre le format de soumission pour ce challenge, avec la colonne \"ID\" reflétant celle de Test.csv et la colonne \"cible\" contenant vos prédictions. L’ordre des lignes n’a pas d’importance, mais les noms de l’ID doivent être corrects.",
+      "created_at": "2023-12-05 12:13:17 UTC",
+      "updated_at": "2023-12-05 12:21:45 UTC"
+    },
+    {
+      "filename": "test.csv",
+      "filesize": 7951537,
+      "description": "Test ressemble à Train.csv mais sans les colonnes liées à la cible. Il s’agit de l’ensemble de données sur lequel vous appliquerez votre modèle.",
+      "created_at": "2023-12-05 12:13:18 UTC",
+      "updated_at": "2023-12-05 12:21:48 UTC"
+    },
+    {
+      "filename": "training.csv",
+      "filesize": 17071505,
+      "description": "Train contient la cible(sortie). Il s’agit de l’ensemble de données que vous utiliserez pour former votre modèle.",
+      "created_at": "2023-12-05 12:13:18 UTC",
+      "updated_at": "2023-12-05 12:21:57 UTC"
+    },
+    {
+      "filename": "Xente_Variable_Definitions.csv",
+      "filesize": 977,
+      "description": "Liste complète des variables et leurs explications.",
+      "created_at": "2023-12-05 12:13:18 UTC",
+      "updated_at": "2023-12-05 12:21:53 UTC"
+    }
+  ]
+}
